@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "JUNG MINHEE"
-  avatar           : "./image/uni.jpg"
+  avatar           : "./uni.jpg"
   bio              : "정민희의 포트폴리오."
   #location         : "Somewhere"
   email            :
