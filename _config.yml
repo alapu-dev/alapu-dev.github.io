@@ -107,8 +107,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "**JUNG MINHEE**"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "JUNG MINHEE"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "정민희의 포트폴리오."
   #location         : "Somewhere"
   email            :
